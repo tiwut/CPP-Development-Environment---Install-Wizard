@@ -92,7 +92,7 @@ get_vcpkg_pkg() {
     esac
 }
 
-TITLE="Ultimate C++ Setup Wizard"
+TITLE="C++ Install Wizard"
 
 INSTALL_MODE=$(whiptail --title "$TITLE" --menu "Installation Scope:" 15 70 2 \
 "1_ROOT" "System-wide via $PKG_MGR (requires sudo)" \
