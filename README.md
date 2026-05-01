@@ -33,6 +33,11 @@ chmod +x uninstall.sh
 ```
 ---
 
+<img width="auto" height="auto" alt="Screenshot" src="install.png" />
+<img width="auto" height="auto" alt="Screenshot" src="uninstall.png" />
+
+---
+
 ## Features
 * **Auto-Detects Package Manager:**
   
